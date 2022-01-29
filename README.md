@@ -46,11 +46,6 @@ Steps for running application:
 
 The image below illustrates the results:
 
-<<<<<<< HEAD
-![<title>](<./plot_of_s&p500_n_porfolios.png>)
-=======
->>>>>>> 24bfd01bae7f734409dd9bf118c8c58dfd4b6cc6
-
 <img width="747" alt="plot_of_s p500_n_porfolios" src="https://user-images.githubusercontent.com/93550651/151676100-08a1b024-bb36-4089-aa47-4ed7e8cfa098.png">---
 
 ## Contributors
