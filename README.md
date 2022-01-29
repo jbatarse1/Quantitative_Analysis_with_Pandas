@@ -31,15 +31,22 @@ Jupyter Lab
 
 ## Usage
 
-To run this application, create a clone on the local desktop. Then, within the folder where program is located,
+To run this application, create a clone on the local desktop. Then, within the folder where program is located, open file 'risk_reward_analysis.ipynb'. The Resources folder has the reference file 'whale_nav.csv'. 
+
+Steps for running application:
+
+1st. Import Data: path the 'whale_nav.csv' file into the program and prepared data.
+
+2nd. Quantitative Analysis: analyze performance, volatility, risk and risk-return profiles.
+
+3rd. Diversify Porfolio: evaluate how the porfolios react relative to the market.
 
 
 
 
 The image below illustrates the results:
 
-![<ScreenShot>](<Python app.py Screen Shot .png>))
-
+![<ScreenShot>](<Screen Shot 2022-01-29 at 7.34.23 AMg>))
 
 
 ---
