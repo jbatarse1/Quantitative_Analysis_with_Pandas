@@ -46,7 +46,7 @@ Steps for running application:
 
 The image below illustrates the results:
 
-![<alt text>](<Shot 2022-01-29 at 7.34.23 AMg>))
+![<alt text>](<Shot 2022-01-29 at 7.34.23 AM.png>))
 
 
 ---
