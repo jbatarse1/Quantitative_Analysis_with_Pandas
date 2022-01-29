@@ -46,10 +46,8 @@ Steps for running application:
 
 The image below illustrates the results:
 
-![<alt text>](<"Screen Shot 2022-01-29 at 7.34.23 AM.png">))
 
-
----
+<img width="747" alt="plot_of_s p500_n_porfolios" src="https://user-images.githubusercontent.com/93550651/151676100-08a1b024-bb36-4089-aa47-4ed7e8cfa098.png">---
 
 ## Contributors
 
