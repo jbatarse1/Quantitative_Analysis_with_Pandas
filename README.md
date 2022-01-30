@@ -1,11 +1,11 @@
 # Quantitative_Analysis_with_Pandas
 Use Metrics to analyze Risk & Return and Diversify Portfolio
 
-This program is to develop a **Python** application within Jupyter Lab and to perform quantitative analysis for the evaluation of the funds portfolios.
+This program is to develop a **Python** application within Jupyter Lab and to perform quantitative analysis for the evaluation of 4 funds portfolios.
 
-To determine which fund portfolio has the better risk & reward profile, metrics calculated are daily returns, standard deviations, Sharpe Ratio, and beta. The S&P 500 is used as a benchmarket to compare funds performances.Plots are also created to visualize the information for better decision making.
+To determine which fund portfolio has the better risk & reward profile, metrics calculated are daily returns, standard deviations, Sharpe Ratio, and beta. The S&P 500 is used as a benchmarket to compare funds performances. Plots are also created to visualize the information for better decision making.
 
-The results from this analysis will indicate the best choice of fund to add to sa porfolio for diversification.
+The results from this analysis will indicate the best choice of fund to add to a porfolio for diversification.
 
 ---
 
@@ -40,9 +40,6 @@ Steps for running application:
 2nd. Quantitative Analysis: analyze performance, volatility, risk and risk-return profiles.
 
 3rd. Diversify Porfolio: evaluate how the porfolios react relative to the market.
-
-
-
 
 The image below illustrates the results:
 
