@@ -11,18 +11,18 @@ The results from this analysis will indicate the best choice of fund to add to a
 
 ## Technologies
 
-This application is developed on the **Python** *3.7.11 version*. It incorportates the following required 4 dependancies to run. These dependancies include the following Imports:
+This application is developed on the **Python** *3.7.11 version*. It incorportates the following required 4 dependancies to run. These dependancies include the following imports:
 
-1. **Pandas** = 
-2. **Pathlib** = To load and save files from and to paths.
-3. **Numpy** = 
-4. **%mathplotlib inline** =
+1. **Pandas**  
+2. **Pathlib** 
+3. **Numpy**  
+4. **%mathplotlib inline** 
 
 ---
 
 ## Installation Guide
 
-The following PIP installation must be performed before running the program. They include:
+The following installation must be performed before running the program. It include:
 
 Jupyter Lab
 
@@ -41,7 +41,7 @@ Steps for running application:
 
 3rd. Diversify Porfolio: evaluate how the porfolios react relative to the market.
 
-The image below illustrates the results:
+The image below illustrates the results of the '21-Day Rolling Standardized Deviations:
 
 <img width="747" alt="plot_of_s p500_n_porfolios" src="https://user-images.githubusercontent.com/93550651/151676100-08a1b024-bb36-4089-aa47-4ed7e8cfa098.png">---
 
